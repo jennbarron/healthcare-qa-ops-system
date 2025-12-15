@@ -11,6 +11,19 @@ All details are intentionally sanitized. No proprietary data, internal tools, or
 
 ---
 
+## Repository Contents
+
+- **Process Overview:** End-to-end QA and operations workflow  
+  → `process-overview.md`
+
+- **KPI Framework:** Metric design and reporting logic  
+  → `kpi-framework.md`
+
+- **QA Scorecard:** Standardized evaluation criteria and calibration model  
+  → `qa-scorecard.md`
+
+  ---
+
 ## Problem
 A new cohort of approximately 50 QA analysts required rapid onboarding, consistent scoring standards, and reliable performance reporting aligned with client expectations. Existing processes relied heavily on manual tracking and lacked standardized calibration and KPI visibility.
 
