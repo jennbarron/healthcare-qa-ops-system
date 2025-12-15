@@ -124,3 +124,18 @@ This framework demonstrates the ability to:
 - Design metrics that support decisions
 - Balance precision with real-world operations
 - Build reporting leaders actually use
+- 
+
+---
+
+## Sample Weekly KPI Summary (Mock)
+
+| Metric                    | Week 1 | Week 2 | Week 3 |
+|---------------------------|--------|--------|--------|
+| Overall QA Accuracy       | 92%    | 94%    | 96%    |
+| Critical Error Rate       | 3.1%   | 2.4%   | 1.8%   |
+| Documentation Defects     | 18     | 12     | 7      |
+| Process Execution Errors  | 9      | 6      | 4      |
+
+*Values shown are illustrative only.*
+
