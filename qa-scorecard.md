@@ -1,6 +1,18 @@
 # QA Scorecard Framework (Sanitized)
 ## Healthcare QA Program
 
+## Overview
+
+The scorecard was designed as more than an evaluation tool.
+
+It became the operational standard that connected onboarding, coaching, calibration, reporting, and continuous improvement through one consistent framework.
+
+This document outlines the end-to-end Quality Assurance (QA) and Operations workflow used to onboard, calibrate, and manage a remote healthcare QA program supporting a large payer client (sanitized case study).
+
+The system was designed to support high-volume, distributed QA teams while ensuring consistency, compliance, and actionable performance insights for operations and client stakeholders.
+
+---
+
 ## Purpose
 The QA scorecard was designed to standardize quality evaluation, reduce subjectivity, and create a shared definition of success across QA reviewers, operations, and client stakeholders.
 
