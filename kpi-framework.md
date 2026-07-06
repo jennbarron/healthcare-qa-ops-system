@@ -1,11 +1,12 @@
 # KPI Framework (Sanitized)
-## Healthcare QA Program
 
-## Objective
-Define a consistent, repeatable KPI (Key Performance Indicator) framework that measures quality performance, identifies systemic risk, and supports operational decision-making without relying on vanity metrics.
+## Overview
 
-This framework balances **accuracy**, **consistency**, and **actionability**.
+This framework was designed to transform Quality Assurance data into operational intelligence.
 
+Rather than measuring performance for reporting alone, each KPI was selected to support a business decision, identify systemic risk, or guide continuous improvement efforts.
+
+Metrics that could not influence an operational decision were intentionally excluded.
 ---
 
 ## KPI Design Principles
